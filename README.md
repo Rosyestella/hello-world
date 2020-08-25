@@ -1,2 +1,2 @@
 # hello-world
- a place where to store ideas for my project
+ a place to store ideas for my project
